@@ -1,0 +1,5 @@
+{
+  "name": "HDFS Visual Simulator",
+  "description": "An interactive educational tool to understand HDFS architecture, block sizing, and NameNode metadata scaling.",
+  "requestFramePermissions": []
+}
